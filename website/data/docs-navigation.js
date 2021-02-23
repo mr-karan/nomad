@@ -62,6 +62,7 @@ export default [
       'client',
       'consul',
       'plugin',
+      'search',
       'sentinel',
       'server',
       'server_join',
